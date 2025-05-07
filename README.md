@@ -4,6 +4,8 @@
 
 **URL**: https://lovable.dev/projects/5f9cb6c7-f21f-4906-8a07-c206738e3222
 
+The live production URL of this React application is available at https://auto-fix-page-template.lovable.app/. Students can access the project through this link.
+
 ## How can I edit this code?
 
 There are several ways of editing your application.
