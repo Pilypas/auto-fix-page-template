@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Car maintenance project
 
 ## Project info
 
